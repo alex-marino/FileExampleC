@@ -1,0 +1,6 @@
+# ninja log v6
+1	56	1748224360926334951	CMakeFiles/FileMan.dir/text_file_man.c.o	50d23cad41656b8c
+33	56	1748226536823285010	FileMan	9b6e634bdb4e08ce
+1	49	1748226484733749522	CMakeFiles/FileMan.dir/dat_file_man.c.o	a739c5aa03868262
+2	33	1748226536792285856	CMakeFiles/FileMan.dir/main.c.o	b2d929fbb28a5123
+2	31	1748275480751654247	build.ninja	bdd566b57de818f7
